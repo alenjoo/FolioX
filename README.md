@@ -30,22 +30,21 @@
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
 
-```bash
+Clone Repository
+
 git clone https://github.com/alenjoo/FolioX.git
 cd FolioX
 
-### 2. Set Up Flutter Frontend
+Frontend Setup
 
-```bash
 flutter pub get
 flutter run
 
 
-### 3. Set Up Flask Backend
 
-```bash
+Backend Setup
+
 cd backend  # Adjust based on your folder structure
 python -m venv venv
 source venv/bin/activate   # or venv\Scripts\activate on Windows
